@@ -28,7 +28,7 @@ Its features include:
 
 Because this extension acts as a graphical wrapper, it requires the core dependencies to be installed on your Linux system and accessible in your `PATH`:
 
-1. **GNOME Shell:** Version 46, 47, 48, 49 or 50.
+1. **GNOME Shell:** Version 46, 47, 48, 49, 50 or 51.
 2. **`scrcpy`:** For handling the actual video/audio mirroring and control.
 3. **`adb` (Android Debug Bridge):** For managing the device connections and fetching statuses.
 4. **`avahi-browse`:** For discovering wireless devices on your local network (usually provided by the `avahi-utils` or `avahi` package depending on your distro).
